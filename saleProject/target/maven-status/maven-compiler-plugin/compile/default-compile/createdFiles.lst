@@ -1,0 +1,9 @@
+infra\DAO.class
+aplicacao\Pedido.class
+control\ListaControleCompra.class
+control\controlador.class
+control\ControladorListaClientes.class
+aplicacao\Cliente.class
+fxml\MainFX.class
+control\ControleClientes.class
+control\controleCompra.class
