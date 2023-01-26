@@ -18,9 +18,9 @@
             <property name="javax.persistence.jdbc.url"
                 value="jdbc:mysql://localhost/SeuSchema"/>
             <property name="javax.persistence.jdbc.user"
-                value="root"/>
+                value="SeuUsuario"/>
             <property name="javax.persistence.jdbc.password"
-                value="1879"/>
+                value="SuaSenha"/>
             
             <property name="hibernate.dialect"
                 value="org.hibernate.dialect.MySQL55Dialect"/>
